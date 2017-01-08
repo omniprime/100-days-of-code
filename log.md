@@ -29,3 +29,9 @@
 **Today's Progress**: Finished the tribute page. Took me the whole hour.
 
 **Thoughts:** Didn't think this would take me the whole hour to do. Hopefully the next project will not require as much research. I am also a bit frustrated that codepen does not allow the target="_blank" option to go to a link. Makes me think that my code does not work.
+
+### Day 6: January 8th, 2017
+
+**Today's Progress**: Started working on my portfolio page project for FCC. I focused solely on the top navbar portion of the page.
+
+**Thoughts:** I think I should have stepped away from the navbar about halfway through my hour. I started to get a little overcome by how much I do not know about bootstrap and spent a lot of time trying to figure it all out. I will be spending some more time going over bootstrap and some simple Javascript to hopefully understand it better.
