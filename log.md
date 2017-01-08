@@ -28,4 +28,4 @@
 
 **Today's Progress**: Finished the tribute page. Took me the whole hour.
 
-**Thoughts:** Didn't think this would take me the whole hour to do. Hopefully the next project will not require as much research.
+**Thoughts:** Didn't think this would take me the whole hour to do. Hopefully the next project will not require as much research. I am also a bit frustrated that codepen does not allow the target="_blank" option to go to a link. Makes me think that my code does not work.
