@@ -35,3 +35,9 @@
 **Today's Progress**: Started working on my portfolio page project for FCC. I focused solely on the top navbar portion of the page.
 
 **Thoughts:** I think I should have stepped away from the navbar about halfway through my hour. I started to get a little overcome by how much I do not know about bootstrap and spent a lot of time trying to figure it all out. I will be spending some more time going over bootstrap and some simple Javascript to hopefully understand it better.
+
+### Day 7: January 9th, 2017
+
+**Today's Progress**: I added the three required sections of the portfolio page and threw in some random placeholder images and colors. It looks like a clown page right now, but it is progress.
+
+**Thoughts:** I am taking the day off tomorrow and I think I will spend most of the day learning more HTML, CSS, and about bootstrap. I am so far removed that most of my time for programming is taken up by research.
