@@ -41,3 +41,15 @@
 **Today's Progress**: I added the three required sections of the portfolio page and threw in some random placeholder images and colors. It looks like a clown page right now, but it is progress.
 
 **Thoughts:** I am taking the day off tomorrow and I think I will spend most of the day learning more HTML, CSS, and about bootstrap. I am so far removed that most of my time for programming is taken up by research.
+
+### Day 8: January 10th, 2017
+
+**Today's Progress**: I finished my portfolio page for the time being. I added the required buttons, links and placeholder spots for what I have worked on. 
+
+**Thoughts:** I spent over 5 hours working and researching today to get the page as it looks. I think it still needs a lot of tweaks, but for now it will serve it's purpose and will give me a chance to move onto JavaScript.
+
+### Day 9: January 11th, 2017
+
+**Today's Progress**: Working my way through FCC's JavaScript lessions. So far mostly things I remember.
+
+**Thoughts:** I forgot how much trouble Arrays gave me. I think there is something I am missing when I try to think about multi-dimentional arrays. When they start to get bigger I sometimes have a hard time keeping track. Perhaps tomorrows challenges will explain it better.
