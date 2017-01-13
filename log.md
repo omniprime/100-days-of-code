@@ -53,3 +53,9 @@
 **Today's Progress**: Working my way through FCC's JavaScript lessions. So far mostly things I remember.
 
 **Thoughts:** I forgot how much trouble Arrays gave me. I think there is something I am missing when I try to think about multi-dimentional arrays. When they start to get bigger I sometimes have a hard time keeping track. Perhaps tomorrows challenges will explain it better.
+
+### Day 10: January 12th, 2017
+
+**Today's Progress**: I spent half of my hour learning more JavaScript. I spent the other half working on my personal CSS.
+
+**Thoughts:** I am trying to replace Bootstrap to some degree so I know more about what is going on with my page than just having to guess how some of thier things interact. I still have a hard time with positioning. I have a header and a main body in good places, but my footer is floating at the top right now. Will work more on it tomorrow.
