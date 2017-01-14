@@ -59,3 +59,9 @@
 **Today's Progress**: I spent half of my hour learning more JavaScript. I spent the other half working on my personal CSS.
 
 **Thoughts:** I am trying to replace Bootstrap to some degree so I know more about what is going on with my page than just having to guess how some of thier things interact. I still have a hard time with positioning. I have a header and a main body in good places, but my footer is floating at the top right now. Will work more on it tomorrow.
+
+### Day 11: January 13th, 2017
+
+**Today's Progress**: I spent half of my hour learning more JavaScript. I spent the other half working on my personal CSS.
+
+**Thoughts:** Splitting the JavaScript lessions might not be the best choice. I had to go back a rereference some things from yesterday. Not the worst thing in the world, but took time away. I spent about 45 minutes on more CSS work. I still am having issues positioning items. I look forward to my week off of work so I might be able to spend more time learning and testing.
