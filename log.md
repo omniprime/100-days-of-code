@@ -65,3 +65,9 @@
 **Today's Progress**: I spent half of my hour learning more JavaScript. I spent the other half working on my personal CSS.
 
 **Thoughts:** Splitting the JavaScript lessions might not be the best choice. I had to go back a rereference some things from yesterday. Not the worst thing in the world, but took time away. I spent about 45 minutes on more CSS work. I still am having issues positioning items. I look forward to my week off of work so I might be able to spend more time learning and testing.
+
+### Day 12: January 14th, 2017
+
+**Today's Progress**: All Javascrip lessons today. High anxiety night.
+
+**Thoughts:** I made it through 12 lessons on Javascript tonight. I had a very hard time focusing on the coding. I know everything I did was correct and I understood what I was doing, but for some reason I was very distracted tonight. I might not count this as a day and repeat 12 tomorrow in hopes that my anxiety and focus are back to normal levels.
