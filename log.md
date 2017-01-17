@@ -77,3 +77,9 @@
 **Today's Progress**: Started with CSS. Moved into Javascript lessons when ran into more positioning issues.
 
 **Thoughts:** I am having a lot of trouble positioning things with CSS. I need to find an indepth guide to make more sense of it. I would think that if I set a <div> nested in another <div> to a certain % position it would remain there and resize when the page shrinks, but it does not always do that. When I got a bit frustrated with that I moved on to more Javascript lessons and made some good progress with objects. I do wish that FCC spent more time on CSS early than just having us rely on bootstrap.
+
+### Day 14: January 16th, 2017
+
+**Today's Progress**: All JavaScript lessons today. Got stuck on a search function
+
+**Thoughts:** Good progress through loops. Ended the hour on the profile lookup lession. Having an issue visualizing how it needs to search through the object to find the items it is looking for. Will try again tomorrow.
