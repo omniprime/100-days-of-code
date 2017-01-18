@@ -83,3 +83,9 @@
 **Today's Progress**: All JavaScript lessons today. Got stuck on a search function
 
 **Thoughts:** Good progress through loops. Ended the hour on the profile lookup lession. Having an issue visualizing how it needs to search through the object to find the items it is looking for. Will try again tomorrow.
+
+### Day 15: January 17th, 2017
+
+**Today's Progress**: Finished the basic section of JavaScript on FCC.
+
+**Thoughts:** I got a little frustrated with the search through a profile section because I forgot about the hasOwnProperty function from a couple of days earlier. I think I might want to try and spend a little more time experimenting on some of these lessions to help retain more.
