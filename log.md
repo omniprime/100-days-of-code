@@ -89,3 +89,9 @@
 **Today's Progress**: Finished the basic section of JavaScript on FCC.
 
 **Thoughts:** I got a little frustrated with the search through a profile section because I forgot about the hasOwnProperty function from a couple of days earlier. I think I might want to try and spend a little more time experimenting on some of these lessions to help retain more.
+
+### Day 16: January 18th, 2017
+
+**Today's Progress**: Spent the who time messing with my portfolio page to try and get it to a better place.
+
+**Thoughts:** I learned a few things about bootstraps positioning. I am not a huge fan of their color choices, but I can change that later. The hour kind of escaped me. I might change it to 2 hours when I am free coding like this.
