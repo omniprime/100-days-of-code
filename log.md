@@ -95,3 +95,9 @@
 **Today's Progress**: Spent the who time messing with my portfolio page to try and get it to a better place.
 
 **Thoughts:** I learned a few things about bootstraps positioning. I am not a huge fan of their color choices, but I can change that later. The hour kind of escaped me. I might change it to 2 hours when I am free coding like this.
+
+### Day 17: January 19th, 2017
+
+**Today's Progress**: Another hour with the portfolio page and bootstrap
+
+**Thoughts:** I am having trouble trying to center images of different heights next to each other. I am not sure what is causing it yet. I think it may be because they are in an <ul> and that is making it follow certain rules. I might try and change those out for something else.
