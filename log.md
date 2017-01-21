@@ -101,3 +101,10 @@
 **Today's Progress**: Another hour with the portfolio page and bootstrap
 
 **Thoughts:** I am having trouble trying to center images of different heights next to each other. I am not sure what is causing it yet. I think it may be because they are in an <ul> and that is making it follow certain rules. I might try and change those out for something else.
+
+### Day 18: January 20th, 2017
+
+**Today's Progress**: Worked on some JavaScript lessons on FCC. Started getting into the open ended questions to help me learn better. 
+
+**Thoughts:** I broke my browser by forcing an infinite loop that I missed. Was kind of funny because I did not see why it was infinite at first. Realized my while statement could never finish because I kept raising the number I was trying to compair to. Got it fixed before the end of the hour. Overall felt kind of slow tonight because of some anxiety. 
+
