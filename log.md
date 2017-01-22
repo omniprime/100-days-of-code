@@ -108,3 +108,8 @@
 
 **Thoughts:** I broke my browser by forcing an infinite loop that I missed. Was kind of funny because I did not see why it was infinite at first. Realized my while statement could never finish because I kept raising the number I was trying to compair to. Got it fixed before the end of the hour. Overall felt kind of slow tonight because of some anxiety. 
 
+### Day 19: January 21st, 2017
+
+**Today's Progress**: Palimdrones. whole hour to compair two strings.
+
+**Thoughts:** Took longer than I thought it would to compair two strings. Mostly came down to the missing [ ] around my [^A-Za-z0-9] to remove any non alphanumerical characters. I think it is a little dumb that there isn't a shortcut way to do this. \W is close, but it includes the _ so it could not be used in this case. Reversing the string was not too hard once I stopped to think about it.
