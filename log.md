@@ -113,3 +113,9 @@
 **Today's Progress**: Palimdrones. whole hour to compair two strings.
 
 **Thoughts:** Took longer than I thought it would to compair two strings. Mostly came down to the missing [ ] around my [^A-Za-z0-9] to remove any non alphanumerical characters. I think it is a little dumb that there isn't a shortcut way to do this. \W is close, but it includes the _ so it could not be used in this case. Reversing the string was not too hard once I stopped to think about it.
+
+### Day 20: January 22nd, 2017
+
+**Today's Progress**: Worked on finding the longest word in a string.
+
+**Thoughts:** For some reason I was not able to get this to work over the hour I had today. I kept getting an undefined error when I was trying to get the length of one of my words. I will look more at it tomorrow.
