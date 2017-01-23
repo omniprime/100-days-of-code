@@ -119,3 +119,9 @@
 **Today's Progress**: Worked on finding the longest word in a string.
 
 **Thoughts:** For some reason I was not able to get this to work over the hour I had today. I kept getting an undefined error when I was trying to get the length of one of my words. I will look more at it tomorrow.
+
+### Day 21: January 23rd, 2017
+
+**Today's Progress**: Did a couple more basic JavaScript algorithms on FCC.
+
+**Thoughts:** Really confused why setting a variable to anything but 0 would hurt my code so much. 
