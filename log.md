@@ -125,3 +125,9 @@
 **Today's Progress**: Did a couple more basic JavaScript algorithms on FCC.
 
 **Thoughts:** Really confused why setting a variable to anything but 0 would hurt my code so much. 
+
+### Day 22: January 24th, 2017
+
+**Today's Progress**: Worked on more CSS and getting my portfolio page to where I want it.
+
+**Thoughts:** Learned a good deal about @media for CSS. It is a helpful call when your site needs to look different on different devices.
