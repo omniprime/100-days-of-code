@@ -132,8 +132,14 @@
 
 **Thoughts:** Learned a good deal about @media for CSS. It is a helpful call when your site needs to look different on different devices.
 
-### Day 22: January 25th, 2017
+### Day 23: January 25th, 2017
 
 **Today's Progress**: Messed with a little more CSS then worked on another couple of FCC Javascript algorithms
 
 **Thoughts:** I still have a lot to learn about CSS and JavaScript. I also think that a couple of the algorithm requests on the FCC lessons are meant for you to get wrong the first time.
+
+### Day 24: January 26th, 2017
+
+**Today's Progress**: JavaScript algorithms
+
+**Thoughts:** I over think almost every request that I am tasked with. I need to slow down and simply map out the problem instead of overcomplicating it.
