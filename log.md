@@ -143,3 +143,9 @@
 **Today's Progress**: JavaScript algorithms
 
 **Thoughts:** I over think almost every request that I am tasked with. I need to slow down and simply map out the problem instead of overcomplicating it.
+
+### Day 25: January 26th, 2017
+
+**Today's Progress**: JavaScript algorithms
+
+**Thoughts:** Three left to go. I am having issues with this seek and destroy alogrithm. I am not following how to properly cut up an object that could have infinite arguments.
