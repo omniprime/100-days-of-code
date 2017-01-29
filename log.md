@@ -144,8 +144,14 @@
 
 **Thoughts:** I over think almost every request that I am tasked with. I need to slow down and simply map out the problem instead of overcomplicating it.
 
-### Day 25: January 26th, 2017
+### Day 25: January 27th, 2017
 
 **Today's Progress**: JavaScript algorithms
 
 **Thoughts:** Three left to go. I am having issues with this seek and destroy alogrithm. I am not following how to properly cut up an object that could have infinite arguments.
+
+### Day 26: January 28th, 2017
+
+**Today's Progress**: Seek and Destroy
+
+**Thoughts:** This algorithm kicked my ass. I have learned that I am having a difficult time following a function inside of a function like that filter() expects. The last one was not as bad since Boolean is easier to follow, but having to make a simple function inside of the call will take some getting used to.
