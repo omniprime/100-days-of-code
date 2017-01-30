@@ -155,3 +155,9 @@
 **Today's Progress**: Seek and Destroy
 
 **Thoughts:** This algorithm kicked my ass. I have learned that I am having a difficult time following a function inside of a function like that filter() expects. The last one was not as bad since Boolean is easier to follow, but having to make a simple function inside of the call will take some getting used to.
+
+### Day 27: January 29th, 2017
+
+**Today's Progress**: Javascripting basic algorithms and intro to JSON
+
+**Thoughts:** Finished up the basic algorithms on FCC. Moved onto the first lession of JSON APIs and Ajax. The final alogrithm was not too bad. I would like it to work for all characters and not just capitals, but that might be something for me to mess with later. It might be nice to have a simple cipher for future notes so not everyone can read my notes.
