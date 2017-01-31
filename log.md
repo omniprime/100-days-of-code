@@ -161,3 +161,9 @@
 **Today's Progress**: Javascripting basic algorithms and intro to JSON
 
 **Thoughts:** Finished up the basic algorithms on FCC. Moved onto the first lession of JSON APIs and Ajax. The final alogrithm was not too bad. I would like it to work for all characters and not just capitals, but that might be something for me to mess with later. It might be nice to have a simple cipher for future notes so not everyone can read my notes.
+
+### Day 28: January 30th, 2017
+
+**Today's Progress**: Messed with CSS Flexbox and worked on some Codeacademy javascript lessons
+
+**Thoughts:** I do not feel like I have the proper grasp on JavaScript. I am going to go through the lessons on Codeacademy to hopefully suplement the lessons I learned going through the stuff with FCC. I will probably do this for a couple of days to get a furth understanding of how Javascript effects web sites and not just the behind the scenes things that I had to do with the basic algorithms.
