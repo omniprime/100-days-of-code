@@ -167,3 +167,15 @@
 **Today's Progress**: Messed with CSS Flexbox and worked on some Codeacademy javascript lessons
 
 **Thoughts:** I do not feel like I have the proper grasp on JavaScript. I am going to go through the lessons on Codeacademy to hopefully suplement the lessons I learned going through the stuff with FCC. I will probably do this for a couple of days to get a furth understanding of how Javascript effects web sites and not just the behind the scenes things that I had to do with the basic algorithms.
+
+### Day 29: January 31st, 2017
+
+**Today's Progress**: Spent the hour on Codewars for JavaScript
+
+**Thoughts:** I think I suck with Javascript. I need to find a place to research it and go one item at a time instead of getting a problem and having to spend so much time researching what I could possibly do to solve it. I am going to spend tomorrow on Codeacademy again I think and see is that helps.
+
+### Day 30: February 1st, 2017
+
+**Today's Progress**: Spent the time working on JavaScript on Codeacademy and a little of codewars
+
+**Thoughts:** CodeAcademy has some annoying syntax requirements that I do not care for. Code with case 'blah' : is the same as case 'blah': The extra space between the case and the colon makes no difference when running the code. A little annoying. The stuff I am currently doing is pretty basice again, but I think I need to do it to get better.
