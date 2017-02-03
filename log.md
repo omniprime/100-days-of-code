@@ -179,3 +179,9 @@
 **Today's Progress**: Spent the time working on JavaScript on Codeacademy and a little of codewars
 
 **Thoughts:** CodeAcademy has some annoying syntax requirements that I do not care for. Code with case 'blah' : is the same as case 'blah': The extra space between the case and the colon makes no difference when running the code. A little annoying. The stuff I am currently doing is pretty basice again, but I think I need to do it to get better.
+
+### Day 31: February 2nd, 2017
+
+**Today's Progress**: Worked on some CSS and took a look at jQuery
+
+**Thoughts:** I think I have a pretty good grasp on the basics of CSS. I just need to get into some futher manipulations that I think will come as I work with more javaScript. I deceided to take a look at jQuery today to see if that might help with some of the troubles I am having with main javascript. So far I wish I had done this sooner. It seems to be a lot easier to understand. I have only just scratched the surface of it, but I do wish that this was how javascript was originally designed.
