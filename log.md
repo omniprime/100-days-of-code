@@ -185,3 +185,9 @@
 **Today's Progress**: Worked on some CSS and took a look at jQuery
 
 **Thoughts:** I think I have a pretty good grasp on the basics of CSS. I just need to get into some futher manipulations that I think will come as I work with more javaScript. I deceided to take a look at jQuery today to see if that might help with some of the troubles I am having with main javascript. So far I wish I had done this sooner. It seems to be a lot easier to understand. I have only just scratched the surface of it, but I do wish that this was how javascript was originally designed.
+
+### Day 32: February 3rd, 2017
+
+**Today's Progress**: jQuery
+
+**Thoughts:** 
