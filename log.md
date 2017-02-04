@@ -188,6 +188,12 @@
 
 ### Day 32: February 3rd, 2017
 
-**Today's Progress**: jQuery
+**Today's Progress**: jQuery animations and direct changes to CSS and HTML elements
 
-**Thoughts:** 
+**Thoughts:** Felt ill today. Only did 30 minutes of actual work. Going to make up the 30 minutes tomorrow when feeling better. Learned a good amount of basic jQuery and got a good understanding of selectors and chaining code.
+
+### Day 33: February 4th, 2017
+
+**Today's Progress**: jQuery, CSS, and Quote generation page
+
+**Thoughts:** Made a ton of progress on the FCC Quote generator. I just have to make it look pretty now. Learned a ton about CSS flex and jQuery animations and changing HTML elements. Had a good 2 hours of it today. Didn't want to stop.
