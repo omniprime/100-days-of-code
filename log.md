@@ -197,3 +197,9 @@
 **Today's Progress**: jQuery, CSS, and Quote generation page
 
 **Thoughts:** Made a ton of progress on the FCC Quote generator. I just have to make it look pretty now. Learned a ton about CSS flex and jQuery animations and changing HTML elements. Had a good 2 hours of it today. Didn't want to stop.
+
+### Day 34: February 5th, 2017
+
+**Today's Progress**: FCC Quote generator
+
+**Thoughts:** I spent the hour working on my quote generator. I was finally able to get the contents of the container to be centered using flexbox. It works pretty well. I will keep experimenting with it. The only thing I have left is to get it to post to Twitter, which I will do tomorrow.
