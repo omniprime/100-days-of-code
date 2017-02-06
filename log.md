@@ -203,3 +203,10 @@
 **Today's Progress**: FCC Quote generator
 
 **Thoughts:** I spent the hour working on my quote generator. I was finally able to get the contents of the container to be centered using flexbox. It works pretty well. I will keep experimenting with it. The only thing I have left is to get it to post to Twitter, which I will do tomorrow.
+
+
+### Day 35: February 6th, 2017
+
+**Today's Progress**: FCC Quote generator
+
+**Thoughts:** Spent two hours making little "fancy" changes to the generator. I just discoved that if my quote contains a ";" it stops posting. I am going to try an figure out why that is later and if there is a way for me to fix that. I also have a slightly larger quote that contains some HTML <br /> in it that I want to not be included and need to see if there is a way around that.
