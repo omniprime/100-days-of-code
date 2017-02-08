@@ -210,3 +210,9 @@
 **Today's Progress**: FCC Quote generator
 
 **Thoughts:** Spent two hours making little "fancy" changes to the generator. I just discoved that if my quote contains a ";" it stops posting. I am going to try an figure out why that is later and if there is a way for me to fix that. I also have a slightly larger quote that contains some HTML <br /> in it that I want to not be included and need to see if there is a way around that.
+
+### Day 36: February 7th, 2017
+
+**Today's Progress**: FCC Quote generator finished and more JQuery lessons
+
+**Thoughts:** I was able to get my quote generator to a place that I was happy with it. I think that I could have put more quotes in there to cut down on the repeated quotes, but it should be okay. Everything works as far as I could tell. I might go back and add an if statement to make it pick another quote if it is the same one as the last one, but for now it works just fine.
