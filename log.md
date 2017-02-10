@@ -223,3 +223,8 @@
 
 **Thoughts:** I didn't work on the layout of the page at all. Most of my time was spent looking at geolocation. I think I will use IP location to get the weather and avoid making the user approve the release of their location. Saves a step and will be able to start with the weather. Still a lot to go over before I attempt to get it into place.
 
+### Day 38: February 9th, 2017
+
+**Today's Progress**: Weather page and research
+
+**Thoughts:** I am trying to learn the things that I do not know that will be required for this weather app. I think I am going to have to go over JSON to get to what I need to  know. This kind of request on FCC is a little annoying since it does not tell you what stuff you will have needed to learn before you can accoplish the task. Tomorrow I think I will just study and learn what goes on with JSON.
