@@ -228,3 +228,9 @@
 **Today's Progress**: Weather page and research
 
 **Thoughts:** I am trying to learn the things that I do not know that will be required for this weather app. I think I am going to have to go over JSON to get to what I need to  know. This kind of request on FCC is a little annoying since it does not tell you what stuff you will have needed to learn before you can accoplish the task. Tomorrow I think I will just study and learn what goes on with JSON.
+
+### Day 39: February 10th, 2017
+
+**Today's Progress**: Back to the basics of JavaScript 
+
+**Thoughts:** I Was going to try and jump into JSON today, but I figured there was still a lot I did not know when I left basic JavaScript and went into jQuery. I still like the simplicity of jQuery, but I think that it is important for me to know where jQuery is getting it's stuff. It will probably also serve me better to know at the very least the basics of JavaScript so that I am able to mix the two if necessary.
