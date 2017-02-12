@@ -234,3 +234,15 @@
 **Today's Progress**: Back to the basics of JavaScript 
 
 **Thoughts:** I Was going to try and jump into JSON today, but I figured there was still a lot I did not know when I left basic JavaScript and went into jQuery. I still like the simplicity of jQuery, but I think that it is important for me to know where jQuery is getting it's stuff. It will probably also serve me better to know at the very least the basics of JavaScript so that I am able to mix the two if necessary.
+### Day 39: February 10th, 2017
+
+**Today's Progress**: Back to the basics of JavaScript 
+
+**Thoughts:** I Was going to try and jump into JSON today, but I figured there was still a lot I did not know when I left basic JavaScript and went into jQuery. I still like the simplicity of jQuery, but I think that it is important for me to know where jQuery is getting it's stuff. It will probably also serve me better to know at the very least the basics of JavaScript so that I am able to mix the two if necessary.
+
+### Day 40: February 11th, 2017
+
+**Today's Progress**: Weather app and the link issue
+
+**Thoughts:** I feel like todays progress line is the name of a chapter in a book. Anyways, I spent today trying to figure out why I am unable to concatenate some strings together. I am currently getting the lat and lon of the user, splitting it into an array of 2 string values, and trying to add them into a web address to get the weather info. For some reason when I am trying to concatenate them it makes the values undefined, but if I just call the values they are there and correct. I am not sure what I am missing on it. I will try and ask around tomorrow if anyone has any ideas on what is wrong.
+
