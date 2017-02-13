@@ -246,3 +246,8 @@
 
 **Thoughts:** I feel like todays progress line is the name of a chapter in a book. Anyways, I spent today trying to figure out why I am unable to concatenate some strings together. I am currently getting the lat and lon of the user, splitting it into an array of 2 string values, and trying to add them into a web address to get the weather info. For some reason when I am trying to concatenate them it makes the values undefined, but if I just call the values they are there and correct. I am not sure what I am missing on it. I will try and ask around tomorrow if anyone has any ideas on what is wrong.
 
+### Day 41: February 12th, 2017
+
+**Today's Progress**: Half tinkering half javascrpt research 
+
+**Thoughts:** I spent my first half hour tinkering with what is wrong in my code for plugging in the latitued and longitude into my URL. I think I figured that out, but now I am having issues getting it to get the weather info. Not sure what is going on with that. I spent the last half an hour reading more javascript from W3schools. It is helpful, but slow. I am going to try and just read up tomorrow in hopes of figuring out what is wrong with my code.
