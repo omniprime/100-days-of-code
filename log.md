@@ -251,3 +251,10 @@
 **Today's Progress**: Half tinkering half javascrpt research 
 
 **Thoughts:** I spent my first half hour tinkering with what is wrong in my code for plugging in the latitued and longitude into my URL. I think I figured that out, but now I am having issues getting it to get the weather info. Not sure what is going on with that. I spent the last half an hour reading more javascript from W3schools. It is helpful, but slow. I am going to try and just read up tomorrow in hopes of figuring out what is wrong with my code.
+
+### Day 42: February 13th, 2017
+
+**Today's Progress**: JavaScript lessons and messing with a friends site
+
+**Thoughts:** Split my time today because I was having a hard time focusing on the javascript lessons. I started learning about JS handling forms. A lot there that I did not know and also more that I learned about what HTML5 can do without JS. The other half an hour was spent disecting my friends site that he threw together on squarespace. https://www.thereasonsimbrokepod.com/ I started to see what I could do to recreate this in its current form. I think I might spend my whole hour on it tomorrow. 
+
