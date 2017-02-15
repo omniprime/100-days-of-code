@@ -258,3 +258,8 @@
 
 **Thoughts:** Split my time today because I was having a hard time focusing on the javascript lessons. I started learning about JS handling forms. A lot there that I did not know and also more that I learned about what HTML5 can do without JS. The other half an hour was spent disecting my friends site that he threw together on squarespace. https://www.thereasonsimbrokepod.com/ I started to see what I could do to recreate this in its current form. I think I might spend my whole hour on it tomorrow. 
 
+### Day 43: February 14th, 2017
+
+**Today's Progress**: More site disections and a need to refocus my efforts
+
+**Thoughts:** I feel like a kid with ADD. I am jumping all over the place and not finding a good structure to learn. I started off the day attempting to make a proper nav bar without the use of bootstrap because of some of the limits bootstrap has with it. I was able to make it happen, but was having issues getting it to center the bar instead of having it float left or right. I stopped work on that and went to codecademy to work on some of their javascript lessons. I think I might take a break for all this trial and error stuff to focus on those lessons for the next few days.
