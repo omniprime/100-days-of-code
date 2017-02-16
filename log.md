@@ -263,3 +263,9 @@
 **Today's Progress**: More site disections and a need to refocus my efforts
 
 **Thoughts:** I feel like a kid with ADD. I am jumping all over the place and not finding a good structure to learn. I started off the day attempting to make a proper nav bar without the use of bootstrap because of some of the limits bootstrap has with it. I was able to make it happen, but was having issues getting it to center the bar instead of having it float left or right. I stopped work on that and went to codecademy to work on some of their javascript lessons. I think I might take a break for all this trial and error stuff to focus on those lessons for the next few days.
+
+### Day 44: February 16th, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
