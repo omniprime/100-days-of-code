@@ -269,3 +269,9 @@
 **Today's Progress**: Codecademy lessons on functions and loops. Sticking with the basics in hopes to further understand the advanced stuff I found myself in.
 
 **Thoughts:** The function stuff was a bit helpful as there were a few things in there that I overlooked the first time I went over them. Loops are still the same as they ever were. I love and hate them. They are helpful, but I still sometimes make a slight mistake to make them infinite. I think all it will take is doing it. I would love to find somewhere that has simple challenges for beginners to help them learn by doing more. I hope to get to more advanced things soon, but tomorrow will be their jQuery lessons.
+
+### Day 45: February 17th, 2017
+
+**Today's Progress**: Finished the JavaScript class on Codecademy. It was not too difficult. Going to move into jQuery tomorrow
+
+**Thoughts:** I did not get too much new out of todays lesson. I do have a better understanding of $(this) and .next() and how they effect elements. I hope to learn a lot more in the jQuery class tomorrow.
