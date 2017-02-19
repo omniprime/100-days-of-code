@@ -275,3 +275,12 @@
 **Today's Progress**: Finished the JavaScript class on Codecademy. It was not too difficult. Going to move into jQuery tomorrow
 
 **Thoughts:** I did not get too much new out of todays lesson. I do have a better understanding of $(this) and .next() and how they effect elements. I hope to learn a lot more in the jQuery class tomorrow.
+
+### Day 46: February 18th, 2017
+
+**Today's Progress**: I spent the day on sololearn for CSS and did the first day of JavaScript30.
+
+**Thoughts:** So far I am not too impressed with JS30. It was nice to see him do it, but I thought there was very little explanation of what was going on. It also seems like you have to know all of the things he was doing to fully grasp it. I am still very much a newbie when it comes to JS so I was a little lost on some of it. I will do at least another day or two worth to see if I get a better understanding of his teaching method.
+  Also spent a good chunk of time on sololearn today. I am working my way through their CSS lesson so I have a better understanding of making pages look pretty. I think my biggest issue with that is that I am not a very creative person. I think as long as I am able to have someone draw up what they want it to look like and I can do things from there I will be good.
+  
+ 
