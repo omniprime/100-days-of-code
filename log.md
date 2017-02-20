@@ -282,5 +282,9 @@
 
 **Thoughts:** So far I am not too impressed with JS30. It was nice to see him do it, but I thought there was very little explanation of what was going on. It also seems like you have to know all of the things he was doing to fully grasp it. I am still very much a newbie when it comes to JS so I was a little lost on some of it. I will do at least another day or two worth to see if I get a better understanding of his teaching method.
   Also spent a good chunk of time on sololearn today. I am working my way through their CSS lesson so I have a better understanding of making pages look pretty. I think my biggest issue with that is that I am not a very creative person. I think as long as I am able to have someone draw up what they want it to look like and I can do things from there I will be good.
-  
- 
+   
+### Day 47: February 19th, 2017
+
+**Today's Progress**: Spent the hour on sololearn for more CSS and did the intro to jQuery on codecademy
+
+**Thoughts:** Today was kind of a cheat day. Not much focus on the actual coding. I might double up on day 47 with whatever I am going over tomorrow. I just hope that I can reaquire my drive. I think the problem I am encountering right now is that I keep starting over because I get to a point in my lessons that I am not learning anything new from it or it ends with things I know so I jump to another thing.
