@@ -288,3 +288,10 @@
 **Today's Progress**: Spent the hour on sololearn for more CSS and did the intro to jQuery on codecademy
 
 **Thoughts:** Today was kind of a cheat day. Not much focus on the actual coding. I might double up on day 47 with whatever I am going over tomorrow. I just hope that I can reaquire my drive. I think the problem I am encountering right now is that I keep starting over because I get to a point in my lessons that I am not learning anything new from it or it ends with things I know so I jump to another thing.
+
+### Day 48: February 20th, 2017
+
+**Today's Progress**: More jQuery on codecademy and messing with the CSS and content on the new portfolio page I am working on.
+
+**Thoughts:** I still am not feeling like I am making much progress on what I work on each day. I might need to start waking up earlier to work on this for a different perspective. 
+I think I have a good handle on the basics of jQuery now. I will continue to work through the codecademy course and I might work on some of it on sololearn when I get all the ins and outs of CSS under my belt. I think the biggest issue is my lack of creative brain keeping me down.
