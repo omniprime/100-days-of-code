@@ -295,3 +295,9 @@
 
 **Thoughts:** I still am not feeling like I am making much progress on what I work on each day. I might need to start waking up earlier to work on this for a different perspective. 
 I think I have a good handle on the basics of jQuery now. I will continue to work through the codecademy course and I might work on some of it on sololearn when I get all the ins and outs of CSS under my belt. I think the biggest issue is my lack of creative brain keeping me down.
+
+### Day 49: February 21st, 2017
+
+**Today's Progress**: Flexbox Froggy and more jQuery
+
+**Thoughts:** Today felt like a good day. I learned about http://flexboxfroggy.com/ from another #100daysofcode coder and wanted to give it a shot. I was able to do all 24 challenges in about 20 minutes. Not too bad with my limited flexbox usage. I also learned a few things about positioning content ina flexbox. I think I will experiment with them some more. I also went through 2 more lessions ofjQuery on codecademy. I am starting to get into things I have not used too much, so I hope to start learning more about what each does and how to properly use them.
