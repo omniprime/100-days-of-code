@@ -301,3 +301,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Flexbox Froggy and more jQuery
 
 **Thoughts:** Today felt like a good day. I learned about http://flexboxfroggy.com/ from another #100daysofcode coder and wanted to give it a shot. I was able to do all 24 challenges in about 20 minutes. Not too bad with my limited flexbox usage. I also learned a few things about positioning content ina flexbox. I think I will experiment with them some more. I also went through 2 more lessions ofjQuery on codecademy. I am starting to get into things I have not used too much, so I hope to start learning more about what each does and how to properly use them.
+
+### Day 50: February 22nd, 2017
+
+**Today's Progress**: Spent an early morning hour on jQuery on codecademy and making a simple list site
+
+**Thoughts:** I had to stay home this morning to wait for a septic guy to pump the house. Figured it was a good time to start some coding. Went through a lesson on codecademy for jQuery, which taught how to add and remove items from a site on the fly. Figured I would mess with it some to make a simple list page. Spent about 20 minutes on that. Will complete another hour or so tonight after work and the kids are in bed.
