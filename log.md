@@ -307,3 +307,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Spent an early morning hour on jQuery on codecademy and making a simple list site
 
 **Thoughts:** I had to stay home this morning to wait for a septic guy to pump the house. Figured it was a good time to start some coding. Went through a lesson on codecademy for jQuery, which taught how to add and remove items from a site on the fly. Figured I would mess with it some to make a simple list page. Spent about 20 minutes on that. Will complete another hour or so tonight after work and the kids are in bed.
+
+### Day 51: February 23rd, 2017
+
+**Today's Progress**: A lot of jQuery lessons completed on codecademy and a just a touch of CSS on sololearn
+
+**Thoughts:** I understand all that jQuery is doing so far. I think most of the help I will get from this will be from trial and error and lot and lots of repetition. Was a hard focus day, but I made it through. I need to get my motivation up. I can do this!
