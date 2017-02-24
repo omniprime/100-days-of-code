@@ -313,3 +313,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: A lot of jQuery lessons completed on codecademy and a just a touch of CSS on sololearn
 
 **Thoughts:** I understand all that jQuery is doing so far. I think most of the help I will get from this will be from trial and error and lot and lots of repetition. Was a hard focus day, but I made it through. I need to get my motivation up. I can do this!
+
+### Day 52: February 24th, 2017
+
+**Today's Progress**: Finished the Codecademy course on jQuery and almost finished the CSS fundamentals on Sololearn
+
+**Thoughts:** Codecademy gave me a good foundation for my knowledge of jQuery. I will have to start coming up with things to test my knowledge of it and sharpen my skills. I spent the rest of my time in CSS fundamentals on SoloLearn. I enjoy that program and hope to continue it when I am done with CSS.
