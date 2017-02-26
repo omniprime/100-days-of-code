@@ -319,3 +319,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Finished the Codecademy course on jQuery and almost finished the CSS fundamentals on Sololearn
 
 **Thoughts:** Codecademy gave me a good foundation for my knowledge of jQuery. I will have to start coming up with things to test my knowledge of it and sharpen my skills. I spent the rest of my time in CSS fundamentals on SoloLearn. I enjoy that program and hope to continue it when I am done with CSS.
+
+### Day 53: February 25th, 2017
+
+**Today's Progress**: Spent the day playing with CSS and jQuery trying to make a page that will start with one <div> shown, but when different buttons are pressed it will hide the current <div> and show the selected one.
+
+**Thoughts:** I built the structure for the site and got all of that implemented properly, but could not figure out the best way to incorporate the jQuery or JavaScript to make it do what I wanted. I think part of my issues was that I was trying to use a slideToggle() in my if statement and I would be best to just do a show for now. Not 100% sure how I will get it to work, but will try again tomorrow.
