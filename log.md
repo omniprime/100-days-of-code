@@ -325,3 +325,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Spent the day playing with CSS and jQuery trying to make a page that will start with one <div> shown, but when different buttons are pressed it will hide the current <div> and show the selected one.
 
 **Thoughts:** I built the structure for the site and got all of that implemented properly, but could not figure out the best way to incorporate the jQuery or JavaScript to make it do what I wanted. I think part of my issues was that I was trying to use a slideToggle() in my if statement and I would be best to just do a show for now. Not 100% sure how I will get it to work, but will try again tomorrow.
+
+### Day 54: February 26th, 2017
+
+**Today's Progress**: I spent all of my time sprucing up my new page and a good 20 minutes until I realized that I forgot a . in my CSS class declaration.
+
+**Thoughts:** I am making good progress on my new portfolio page, but made the mistake to take a look at some other pages and realize how much I do not know yet. It was a little discouraging, but I am going to work through it. Tomorrow I think I will finish adding my content to the page and replace the one I have one codepen. I will then go back to my weather app in hopes that I have learned enough to get through the issues I was having with it.
