@@ -331,3 +331,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: I spent all of my time sprucing up my new page and a good 20 minutes until I realized that I forgot a . in my CSS class declaration.
 
 **Thoughts:** I am making good progress on my new portfolio page, but made the mistake to take a look at some other pages and realize how much I do not know yet. It was a little discouraging, but I am going to work through it. Tomorrow I think I will finish adding my content to the page and replace the one I have one codepen. I will then go back to my weather app in hopes that I have learned enough to get through the issues I was having with it.
+
+### Day 55: February 27th, 2017
+
+**Today's Progress**: Continued work on my portfolio gallery with jQuery and CSS. Was able to make the thumbnails clickable to change the larger image to the click thumbnail. Also have it so the user can click the larger image to go to a website for the image (if available)
+
+**Thoughts:** I feel like I am making good progress on my new portfolio site. It will need more colors, but it is coming alone nicely. I like how there is no scrolling required now. Tomorrow I will probably have to get it online to test to see how it looks on a phone or other small device. Feeling good about it so far.
