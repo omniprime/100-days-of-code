@@ -337,3 +337,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Continued work on my portfolio gallery with jQuery and CSS. Was able to make the thumbnails clickable to change the larger image to the click thumbnail. Also have it so the user can click the larger image to go to a website for the image (if available)
 
 **Thoughts:** I feel like I am making good progress on my new portfolio site. It will need more colors, but it is coming alone nicely. I like how there is no scrolling required now. Tomorrow I will probably have to get it online to test to see how it looks on a phone or other small device. Feeling good about it so far.
+
+### Day 56: February 28th, 2017
+
+**Today's Progress**: Finished the gallery page and changed it so that if there is a link for the image the link will be available, but if not it will only target the current page. Also added <form> elements to my contact page.
+
+**Thoughts:** Semi-happy with my gallery. It works the way I wanted it to. I might tweak it again in the future. I started my contact page, but not happy with my formatting so far. I will mess with it more tomorrow. 
