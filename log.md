@@ -343,3 +343,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Finished the gallery page and changed it so that if there is a link for the image the link will be available, but if not it will only target the current page. Also added <form> elements to my contact page.
 
 **Thoughts:** Semi-happy with my gallery. It works the way I wanted it to. I might tweak it again in the future. I started my contact page, but not happy with my formatting so far. I will mess with it more tomorrow. 
+
+### Day 57: March 2nd, 2017
+
+**Today's Progress**: Have the basics of my contact page done. Just need or add my icons for github, codepen, and the like.
+
+**Thoughts:** I am not 100% satisfied with the way my inputs look on my contact page, and all of the pages need more color. I also need to remember to remove the border and color from my header. I might add a small footer to make it look a little uniform. I also started a 000webhost account so I could host some of this off of codepen. Codepen was giving me an issue where it was not showing all of my header. Not sure what was causing it, but it looks fine on the 000webhost. The URL is https://cmportfolio.000webhostapp.com/index.html It will still need some changes, but I like where it is now comapired to where my first one was.
