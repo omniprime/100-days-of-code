@@ -349,3 +349,10 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Have the basics of my contact page done. Just need or add my icons for github, codepen, and the like.
 
 **Thoughts:** I am not 100% satisfied with the way my inputs look on my contact page, and all of the pages need more color. I also need to remember to remove the border and color from my header. I might add a small footer to make it look a little uniform. I also started a 000webhost account so I could host some of this off of codepen. Codepen was giving me an issue where it was not showing all of my header. Not sure what was causing it, but it looks fine on the 000webhost. The URL is https://cmportfolio.000webhostapp.com/index.html It will still need some changes, but I like where it is now comapired to where my first one was.
+
+### Day 58: March 3rd, 2017
+
+**Today's Progress**: finished my new portfolio and went back to the weather page.
+
+**Thoughts:** I spent the majority of my time doing research on how to properly call the weather api. I must be doing something wrong with my call since I am not getting it to pull any of the weather info. I might be missing something when it comes to JSON, so I might look into that more tomorrow.
+
