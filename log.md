@@ -356,3 +356,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:** I spent the majority of my time doing research on how to properly call the weather api. I must be doing something wrong with my call since I am not getting it to pull any of the weather info. I might be missing something when it comes to JSON, so I might look into that more tomorrow.
 
+### Day 59: March 4th, 2017
+
+**Today's Progress**: JSON. I'm just not getting you.
+
+**Thoughts:** I am not sure what I am doing wrong. I have tried to get my weather data with javascript and with jquery. No luck. I am not sure what I am missing. I am not having good luck with it tonight, so I will step back and try again tomorrow.
+
