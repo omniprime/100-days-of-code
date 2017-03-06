@@ -362,3 +362,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:** I am not sure what I am doing wrong. I have tried to get my weather data with javascript and with jquery. No luck. I am not sure what I am missing. I am not having good luck with it tonight, so I will step back and try again tomorrow.
 
+### Day 60: March 5th, 2017
+
+**Today's Progress**: Weather App progress was made. Finally was able to get the data to load.
+
+**Thoughts:** Not sure what my issue was, but I was able to get the data to load. It is a little slower than I would like so I think I am going to have to figure out a way to get the info before it draws the page. Still thrilled I was able to finally get it to display the info I needed. I do find it a little odd that the OpenWeatherMap uses an array for the current weather but objects for everything else. Once again I am happy that I used the console to figure out a few things. It has to become a habbit for me in the future.
+
