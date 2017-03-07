@@ -368,3 +368,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:** Not sure what my issue was, but I was able to get the data to load. It is a little slower than I would like so I think I am going to have to figure out a way to get the info before it draws the page. Still thrilled I was able to finally get it to display the info I needed. I do find it a little odd that the OpenWeatherMap uses an array for the current weather but objects for everything else. Once again I am happy that I used the console to figure out a few things. It has to become a habbit for me in the future.
 
+### Day 61: March 6th, 2017
+
+**Today's Progress**: Messed with CSS to try and draw a sun until I realized that Openweathermap has icons provided. Wrote a line to link in the current icon.
+
+**Thoughts:** Made only a little progress on the app today. I spent too much time playing with CSS to try and draw a sun. I got it mostly drawn, but realized I would have a lot more to do after that. I then realized that there were icons provided. Tomorrow I will spruce up the look of things to finish the project.
+
