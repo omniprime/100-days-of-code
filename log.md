@@ -374,3 +374,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:** Made only a little progress on the app today. I spent too much time playing with CSS to try and draw a sun. I got it mostly drawn, but realized I would have a lot more to do after that. I then realized that there were icons provided. Tomorrow I will spruce up the look of things to finish the project.
 
+### Day 62: March 7th, 2017
+
+**Today's Progress**: Finished the weather app. added the convert temp and changed the mouse to a pointer when hovering over the temperature element. (http://codepen.io/omniprime/full/zZKYOL/)
+
+**Thoughts:**  My code it probably a little sloppy, but it does what it is supposed to. I might go back to it later to try and clean it up and shorten it where I can. I just don't know enough about javascript to know where I can cut or combine things. The Wikipedia app is next. This one does not seem to be as hard as the last, but I should probably add a bit more flare to it compaired to my weather app 
+
