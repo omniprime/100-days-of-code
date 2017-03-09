@@ -380,3 +380,8 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:**  My code it probably a little sloppy, but it does what it is supposed to. I might go back to it later to try and clean it up and shorten it where I can. I just don't know enough about javascript to know where I can cut or combine things. The Wikipedia app is next. This one does not seem to be as hard as the last, but I should probably add a bit more flare to it compaired to my weather app 
 
+### Day 63: March 8th, 2017
+
+**Today's Progress**: The basic layout of the wikipedia page for FCC is done. Made the search <input> pulse as a circle until focused. Reverts when blured and goes back to pulsing.
+
+**Thoughts:**  Took a little longer than I thought it would to make that simple animation. I am still very unpracticed. A long way to go to get where I do not need to look things up constantly. Happy with the progress, but I need to dedicate more time to this so I can grow more.
