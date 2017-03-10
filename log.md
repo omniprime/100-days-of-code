@@ -385,3 +385,10 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: The basic layout of the wikipedia page for FCC is done. Made the search <input> pulse as a circle until focused. Reverts when blured and goes back to pulsing.
 
 **Thoughts:**  Took a little longer than I thought it would to make that simple animation. I am still very unpracticed. A long way to go to get where I do not need to look things up constantly. Happy with the progress, but I need to dedicate more time to this so I can grow more.
+
+### Day 64: March 9th, 2017
+
+**Today's Progress**: Some jQuery youtube lessons and got the look of my Wikipedia viewer page done. 
+
+**Thoughts:**  So far, I am a bit overwhelmed by the MediaWiki API. There is a lot in there that I just do not understand yet. So much of my knowledge has been quick research and not enough step by step growth. I am going to try and spend some time reading the tutorial tomorrow to get a better grasp of what I will need to do to pull the search info I need for the viewer page. Hoping to have a breakthrough with this one by the end of the weekend. Just need to focus.
+
