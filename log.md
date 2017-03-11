@@ -392,3 +392,8 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:**  So far, I am a bit overwhelmed by the MediaWiki API. There is a lot in there that I just do not understand yet. So much of my knowledge has been quick research and not enough step by step growth. I am going to try and spend some time reading the tutorial tomorrow to get a better grasp of what I will need to do to pull the search info I need for the viewer page. Hoping to have a breakthrough with this one by the end of the weekend. Just need to focus.
 
+### Day 65: March 10th, 2017
+
+**Today's Progress**: Not much in the way of progress today. A couple of jQuery tutorial videos and setting up my testing site.
+
+**Thoughts:**  Not a good focusing day. Did some more video tutorials and had some good understanding. I just need to make some use of them in the near future. Having some trouble focusing today. Feeling very drained. Have a ton on my plate tomorrow, so I may have to skip it.
