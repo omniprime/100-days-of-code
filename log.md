@@ -397,3 +397,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Not much in the way of progress today. A couple of jQuery tutorial videos and setting up my testing site.
 
 **Thoughts:**  Not a good focusing day. Did some more video tutorials and had some good understanding. I just need to make some use of them in the near future. Having some trouble focusing today. Feeling very drained. Have a ton on my plate tomorrow, so I may have to skip it.
+
+### Day 66: March 12th, 2017
+
+**Today's Progress**: Made some progress on submitting forms to only javascript instead of a file and was able to get the array for 10 search results from Wikipedia.
+
+**Thoughts:**  Not 100% happy with my progress today. I was able to get the array of info from wikipedia, but did not test anything with it. I spent a lot longer than I should have figuring out the simply way to get form data without submitting it to another file. I might dive back in later today to see about making some further progress on it and trim up my code a bit.
