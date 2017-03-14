@@ -403,3 +403,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Made some progress on submitting forms to only javascript instead of a file and was able to get the array for 10 search results from Wikipedia.
 
 **Thoughts:**  Not 100% happy with my progress today. I was able to get the array of info from wikipedia, but did not test anything with it. I spent a lot longer than I should have figuring out the simply way to get form data without submitting it to another file. I might dive back in later today to see about making some further progress on it and trim up my code a bit.
+
+### Day 67: March 13th, 2017
+
+**Today's Progress**: ZERO progress made. Having big issues with figuring out callbacks. I just am having a hard time grasping it.
+
+**Thoughts:**  Ending this session very upset with myself. Spent 2 hours attempting to figure out what I am missing and I can not find it. I think I might start over from scratch on my JS tomorrow and see if that will get me anywhere. Not feeling it tonight. I also still suck at asking for help on what I am doing wrong.
