@@ -409,3 +409,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: ZERO progress made. Having big issues with figuring out callbacks. I just am having a hard time grasping it.
 
 **Thoughts:**  Ending this session very upset with myself. Spent 2 hours attempting to figure out what I am missing and I can not find it. I think I might start over from scratch on my JS tomorrow and see if that will get me anywhere. Not feeling it tonight. I also still suck at asking for help on what I am doing wrong.
+
+### Day 68: March 14th, 2017
+
+**Today's Progress**: It wasn't the callback it was the form submission. Figured out that my .submit() or .on("submit", function()) were causing the issue, because my callback was not canceling the normal submission of the form and would delete my info on the page.
+
+**Thoughts:**  Only took most of the hour, but glad I figured it out. Have it pulling the data I need. Tomorrow will be spent formatting it properly and making it show only when I need it. Hopefully I will finish tomorrow. Progress!
