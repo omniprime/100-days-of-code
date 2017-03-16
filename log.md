@@ -415,3 +415,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: It wasn't the callback it was the form submission. Figured out that my .submit() or .on("submit", function()) were causing the issue, because my callback was not canceling the normal submission of the form and would delete my info on the page.
 
 **Thoughts:**  Only took most of the hour, but glad I figured it out. Have it pulling the data I need. Tomorrow will be spent formatting it properly and making it show only when I need it. Hopefully I will finish tomorrow. Progress!
+
+### Day 69: March 15th, 2017
+
+**Today's Progress**: Got the basics down for the look of the results. I am having an issue where my links are not for the whole div just the text.
+
+**Thoughts:**  Made a lot of good progress and cleaned up some of my javascript when I realized that my code was getting a little out of hand. Made a for loop to make divs based on what my results return. Looks ok on the page, but I still have a little ways to go to finish. Spent nearly 2.5 hours today.
