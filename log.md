@@ -421,3 +421,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Got the basics down for the look of the results. I am having an issue where my links are not for the whole div just the text.
 
 **Thoughts:**  Made a lot of good progress and cleaned up some of my javascript when I realized that my code was getting a little out of hand. Made a for loop to make divs based on what my results return. Looks ok on the page, but I still have a little ways to go to finish. Spent nearly 2.5 hours today.
+
+### Day 70: March 16th, 2017
+
+**Today's Progress**: Finished the wiki site. It searches and displays the results. 
+
+**Thoughts:**  Don't like the way it looks. I could turn it in, but I do not like how some of it looks. I don't like the fact that I don't have it clear the results if it is asked to. I don't like how it refreshes when it does a new search when old data is already displayed. I will probably play with it a bit more tomorrow and turn it in.
