@@ -427,3 +427,10 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Today's Progress**: Finished the wiki site. It searches and displays the results. 
 
 **Thoughts:**  Don't like the way it looks. I could turn it in, but I do not like how some of it looks. I don't like the fact that I don't have it clear the results if it is asked to. I don't like how it refreshes when it does a new search when old data is already displayed. I will probably play with it a bit more tomorrow and turn it in.
+
+### Day 71: March 18th, 2017
+
+**Today's Progress**: Finished the Wikipedia Viewer and looked at what will be required for the Twitch API. 
+
+**Thoughts:**  I am overly critical of my work and am not impressed by what I have done. I don't think that it looks great, but it does what is required of it. The more I work on the front end of things, the more I think I might be better off on the back end. I am able to make my code work, but making it look good seems to take a lot longer than I think it should. Probably more repetition will help with that.
+
