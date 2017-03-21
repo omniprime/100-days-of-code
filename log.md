@@ -434,3 +434,10 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 
 **Thoughts:**  I am overly critical of my work and am not impressed by what I have done. I don't think that it looks great, but it does what is required of it. The more I work on the front end of things, the more I think I might be better off on the back end. I am able to make my code work, but making it look good seems to take a lot longer than I think it should. Probably more repetition will help with that.
 
+### Day 72: March 20th, 2017
+
+**Today's Progress**: Did some research on jQuery .get() and tried to apply it to my recent wiki and weather apps with little success. I also took a short crash course on git, also did not understand or absorb it all.
+
+**Thoughts:**  Had to skip yesterday because was out with the family and forgot to pack the laptop. It was probably for the best, because I do not think I would have had the time to commit to a full hour. Spent today messing with .get() and a little git. I have a stange feeling I am going to have a lot of reading ahead of me to fully understand what is going on with different get commands. I kept getting a "Cross-Origin Request Blocked" or something similar when I made a request that wasn't jsonp. I will try to figure it out more tomorrow. I think it will be in my best interest to try and makes some connections with others to help me understand what is going on.
+I also took a look at git to see if that might be worth my effort to attempt. I am not sure it will at the moment since I do not have anyone I am working with or even regularly converse with regarding code. I might put this on a back burner until a time comes that I will really need it. I have a basic understanding of github, so I figure that will suit my needs for the time being.
+
