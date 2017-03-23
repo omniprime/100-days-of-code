@@ -441,3 +441,9 @@ I think I have a good handle on the basics of jQuery now. I will continue to wor
 **Thoughts:**  Had to skip yesterday because was out with the family and forgot to pack the laptop. It was probably for the best, because I do not think I would have had the time to commit to a full hour. Spent today messing with .get() and a little git. I have a stange feeling I am going to have a lot of reading ahead of me to fully understand what is going on with different get commands. I kept getting a "Cross-Origin Request Blocked" or something similar when I made a request that wasn't jsonp. I will try to figure it out more tomorrow. I think it will be in my best interest to try and makes some connections with others to help me understand what is going on.
 I also took a look at git to see if that might be worth my effort to attempt. I am not sure it will at the moment since I do not have anyone I am working with or even regularly converse with regarding code. I might put this on a back burner until a time comes that I will really need it. I have a basic understanding of github, so I figure that will suit my needs for the time being.
 
+### Day 73: March 22nd, 2017
+
+**Today's Progress**: Spent the whole time going through SoloLearn JS course. 3/4 complete in the hour
+
+**Thoughts:**  I did not have any drive today. Spent the hour on SoloLearn instead of direct coding. Kind of in a stupor. Hope to clear out of it soon so I can focus on this again. Thought I was making good progress before this past weekend.
+
