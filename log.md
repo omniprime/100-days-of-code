@@ -452,3 +452,10 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 **Today's Progress**: Did the basic layout for the Twitch stream viewer. Spent the last 10 minutes doing some more sololearn JS.
 
 **Thoughts:**  I am a little confused and frustrated on why my pages look different on chrome vs firefox. I use firefox as my main browser and just started opening my pages in chrome. For some reason chrome does not like to flexbox, because it looks good on firefox, but even with the -webkit- additions it does not work quite right. I will try to read up on it more tomorrow to make sure I am doing it correctly.
+
+### Day 75: March 25th, 2017
+
+**Today's Progress**: Did some SoloLearn JS class tonight
+
+**Thoughts:**  Wasn't feeling to motivated. Just did a little Sololearn. Almost done with the JS section, just one more section to go. The more I do this the more I think these online learning tools are not great. They are good to get some basic understanding, but I think actually doing the coding is what will help me in the long run. 
+
