@@ -459,3 +459,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Wasn't feeling to motivated. Just did a little Sololearn. Almost done with the JS section, just one more section to go. The more I do this the more I think these online learning tools are not great. They are good to get some basic understanding, but I think actually doing the coding is what will help me in the long run. 
 
+### Day 76: March 26th, 2017
+
+**Today's Progress**: Small progress made on the Twitch Stream API.
+
+**Thoughts:**  Got the call to go out for the status of the streams. It does not look like the calls are going out in order though. I will have to look closer at it tomorrow. Going to mess with it some more tomorrow. I seem to have the $.get jsonp requests down. I just have to figure out the other $.get calls and make them work.
+
