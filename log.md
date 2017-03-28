@@ -465,3 +465,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Got the call to go out for the status of the streams. It does not look like the calls are going out in order though. I will have to look closer at it tomorrow. Going to mess with it some more tomorrow. I seem to have the $.get jsonp requests down. I just have to figure out the other $.get calls and make them work.
 
+### Day 77: March 27th, 2017
+
+**Today's Progress**: More work on the Twitch API. Made the for loop go through my array or provided channels to check if they are online. appends a new <div> to my container with the results.
+
+**Thoughts:**  I am able to get the online accounts to show up properly, but I am having an issue with the offline ones. It will make a new <div> for all of the offline ones, but the name is not correct as my .get is returning after the loop is done. I need to figure out a way to make it wait for each get call to finish. I attempted a .wait().done() but the problem is that it needs to run the get call twice for some reason. I am not sure why. I get responses like this the first time it runs  [HTTP/2.0 301 Moved Permanently 197ms]. I will look more into it tomorrow.
+
