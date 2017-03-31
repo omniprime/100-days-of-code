@@ -471,3 +471,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  I am able to get the online accounts to show up properly, but I am having an issue with the offline ones. It will make a new <div> for all of the offline ones, but the name is not correct as my .get is returning after the loop is done. I need to figure out a way to make it wait for each get call to finish. I attempted a .wait().done() but the problem is that it needs to run the get call twice for some reason. I am not sure why. I get responses like this the first time it runs  [HTTP/2.0 301 Moved Permanently 197ms]. I will look more into it tomorrow.
 
+### Day 78: March 30th, 2017
+
+**Today's Progress**: Was able to get some work done tonight. Worked on the Twitch API and have the functions mostly working. 
+
+**Thoughts:**  It pulls the data from twitch and puts online items at the top and offline items underneath. Tomorrow I need to have it hide the offline or online items when asked. I also have an issue where I am not getting an error when a channel does not exist. I am not sure why. I will try and chat with people about it tomorrow.
+
