@@ -477,3 +477,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  It pulls the data from twitch and puts online items at the top and offline items underneath. Tomorrow I need to have it hide the offline or online items when asked. I also have an issue where I am not getting an error when a channel does not exist. I am not sure why. I will try and chat with people about it tomorrow.
 
+### Day 79: March 31st, 2017
+
+**Today's Progress**: Twitch API With no progress 
+
+**Thoughts:**  All I did was try to produce an error. I am not getting one. More frustrated than ever with this page. I am very close to attempting to see what I am doing wrong through the FCC JS. 
+
