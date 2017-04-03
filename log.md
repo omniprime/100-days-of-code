@@ -483,3 +483,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  All I did was try to produce an error. I am not getting one. More frustrated than ever with this page. I am very close to attempting to see what I am doing wrong through the FCC JS. 
 
+### Day 80: April 2nd, 2017
+
+**Today's Progress**: Twitch API with all the progress. Got all the crap to work.
+
+**Thoughts:**  I still can not get it to produce an undefined response from the streams, but I formatted it for it anyways redundantly. It now pulls all my proper info and fills it into the proper <div> (onlines, offlines, and errors). I think this will save some time for reordering them. Tomorrow I will spend my time making it look good and allow the onlines and offlines to be hidden and shown when links are clicked. Progress!!
+
