@@ -489,3 +489,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  I still can not get it to produce an undefined response from the streams, but I formatted it for it anyways redundantly. It now pulls all my proper info and fills it into the proper <div> (onlines, offlines, and errors). I think this will save some time for reordering them. Tomorrow I will spend my time making it look good and allow the onlines and offlines to be hidden and shown when links are clicked. Progress!!
 
+### Day 81: April 3rd, 2017
+
+**Today's Progress**: Twitch API CSS and layout work.
+
+**Thoughts:**  I am going too far away from the required user stories. I spent a good amount of my time adding the stream to the page if it was online. I stopped before I got it completed because I realized that I was not doing what I should. I am going to just finish the formatting tomorrow and turn it in. Later I will go back and add the stream stuff to the page for on site video.
+
