@@ -495,3 +495,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  I am going too far away from the required user stories. I spent a good amount of my time adding the stream to the page if it was online. I stopped before I got it completed because I realized that I was not doing what I should. I am going to just finish the formatting tomorrow and turn it in. Later I will go back and add the stream stuff to the page for on site video.
 
+### Day 88: April 5th and 6th, 2017
+
+**Today's Progress**: Twitch API CSS and layout work.
+
+**Thoughts:**  Turned in my twitch API. Not happy with the colors, but I have very little in the way of an artistic eye. It works though and that is what matters most. I might have to switch to back end development soon in an attempt to do something that does not require art and is more logic based. 
+
