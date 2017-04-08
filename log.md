@@ -501,3 +501,10 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Turned in my twitch API. Not happy with the colors, but I have very little in the way of an artistic eye. It works though and that is what matters most. I might have to switch to back end development soon in an attempt to do something that does not require art and is more logic based. 
 
+### Day 89: April 7th, 2017
+
+**Today's Progress**: Intermediate Algorithm Scripting Challenge 1
+
+**Thoughts:**  I always have one little mistake in each of my codes. It took me the hour to realize I had a manual starting place on my reduce function. I felt kind of dumb. Got it working though and know what I did wrong and how it works. I'll take that as a win.
+
+
