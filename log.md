@@ -507,4 +507,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  I always have one little mistake in each of my codes. It took me the hour to realize I had a manual starting place on my reduce function. I felt kind of dumb. Got it working though and know what I did wrong and how it works. I'll take that as a win.
 
+### Day 90: April 9th, 2017
+
+**Today's Progress**: Intermediate Algorithm Scripting Challenge 2 and 3
+
+**Thoughts:**  Worked a little faster today. I was able to get through 2 algorithms today instead of just one. I am having a little more trouble than I thought when it comes to properly mapping out how I am going to solve the problem. I think the next one I am going to try and avoid any online searching and just go straight from memory. I am not sure how well that will work, but here's hoping.
 
