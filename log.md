@@ -513,3 +513,10 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Worked a little faster today. I was able to get through 2 algorithms today instead of just one. I am having a little more trouble than I thought when it comes to properly mapping out how I am going to solve the problem. I think the next one I am going to try and avoid any online searching and just go straight from memory. I am not sure how well that will work, but here's hoping.
 
+### Day 91: April 10th, 2017
+
+**Today's Progress**: Intermediate Algorithm Scripting Challenge Wherefore art thou
+
+**Thoughts:**  Having some trouble with my code for this one. I am attempting to loop through the array with a for in loop and check for the property with the hasOwnProperty() method. I am getting it to return [object, Object] but not the actual object at the moment. I am missing something or have an Object.keys() check in the wrong place. I will pick it up again tomorrow.
+
+
