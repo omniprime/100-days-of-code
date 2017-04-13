@@ -519,4 +519,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Having some trouble with my code for this one. I am attempting to loop through the array with a for in loop and check for the property with the hasOwnProperty() method. I am getting it to return [object, Object] but not the actual object at the moment. I am missing something or have an Object.keys() check in the wrong place. I will pick it up again tomorrow.
 
+### Day 92: April 12th, 2017
+
+**Today's Progress**: SASS and pixel art creation
+
+**Thoughts:**  Skipped JS today and had some fun attempting to make a pixel character with CSS Box-shadow. Was not very successful yet. I think I will be able to get it. I found a nice site that will write the code for you at http://elrumordelaluz.github.io/Pixelator/ very handy if you have the time to do all the clicking. Might be something I mess more with in the future. I think it would be a fun addition to my portfolio page. Add a little sprite to the menu bar that clicks links for you after you click them. For the future though. I still have soo very much to learn.
 
