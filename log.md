@@ -525,3 +525,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Skipped JS today and had some fun attempting to make a pixel character with CSS Box-shadow. Was not very successful yet. I think I will be able to get it. I found a nice site that will write the code for you at http://elrumordelaluz.github.io/Pixelator/ very handy if you have the time to do all the clicking. Might be something I mess more with in the future. I think it would be a fun addition to my portfolio page. Add a little sprite to the menu bar that clicks links for you after you click them. For the future though. I still have soo very much to learn.
 
+### Day 93: April 13th, 2017
+
+**Today's Progress**: Wherefore Challenge
+
+**Thoughts:**  I am not sure I am a fan of this one. I was able to get the demo example to run easily enough. My issue came when it made you do it for two in the second argument. I was able to get it working after fixing a stupid mistake I made with extra Object.keys() in my if statement. My issue with this is what if there was more things in the second argument? This will only help with one or two not more than that. I am not sure if there is a shorthand way to make this work.
+
