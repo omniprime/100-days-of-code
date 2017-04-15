@@ -531,3 +531,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  I am not sure I am a fan of this one. I was able to get the demo example to run easily enough. My issue came when it made you do it for two in the second argument. I was able to get it working after fixing a stupid mistake I made with extra Object.keys() in my if statement. My issue with this is what if there was more things in the second argument? This will only help with one or two not more than that. I am not sure if there is a shorthand way to make this work.
 
+### Day 94: April 14th, 2017
+
+**Today's Progress**: More pixels and CSS
+
+**Thoughts:**  I cheated a little today and went back to more of the box-shadow stuff with css to make pixel characters. I think I have a pretty good understanding of how it works. My issue will come with putting it all together. I am also not the best artist and I think that a lot of what needs to be done in making this kind of thing is artistic ability. I will have to start working on improving that muscle so I can start making some fancy things.
+
