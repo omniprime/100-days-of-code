@@ -537,3 +537,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  I cheated a little today and went back to more of the box-shadow stuff with css to make pixel characters. I think I have a pretty good understanding of how it works. My issue will come with putting it all together. I am also not the best artist and I think that a lot of what needs to be done in making this kind of thing is artistic ability. I will have to start working on improving that muscle so I can start making some fancy things.
 
+### Day 95: April 15th, 2017
+
+**Today's Progress**: Search and Replace algorithm
+
+**Thoughts:**  It looks like I am taking about an hour per algorithm now. It is getting a little easier for me to figure out how I need to write things the more I do it. This one was probably not done the way that they wanted it, but it works and I do not think that it was that bad. They had a reference for splice(), but I could not find a good reason to use it. I think split() and toUpperCase() worked better and simipler. I may be wrong, but with me doing this on my own and no one showing me what I might have missed I will keep going how I am going for now.
+
