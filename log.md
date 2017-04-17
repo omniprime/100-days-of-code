@@ -543,3 +543,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  It looks like I am taking about an hour per algorithm now. It is getting a little easier for me to figure out how I need to write things the more I do it. This one was probably not done the way that they wanted it, but it works and I do not think that it was that bad. They had a reference for splice(), but I could not find a good reason to use it. I think split() and toUpperCase() worked better and simipler. I may be wrong, but with me doing this on my own and no one showing me what I might have missed I will keep going how I am going for now.
 
+### Day 96: April 16th, 2017
+
+**Today's Progress**: Pig Latin algorithm
+
+**Thoughts:**  It works. Again one hour, one algorithm done. I was thinking that I would be able to start on the next one tonight, but I ran into a little trouble with the consonant clusters. My code is not 100% since there are so many clusters that could happen, but it does what was needed for the lesson and I think this one was clean. I finished this one again without using all of the helpful links. I am starting to think that they are there and they might be useful, but might not be necessary. Tomorrow another one!
+
