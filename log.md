@@ -549,3 +549,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  It works. Again one hour, one algorithm done. I was thinking that I would be able to start on the next one tonight, but I ran into a little trouble with the consonant clusters. My code is not 100% since there are so many clusters that could happen, but it does what was needed for the lesson and I think this one was clean. I finished this one again without using all of the helpful links. I am starting to think that they are there and they might be useful, but might not be necessary. Tomorrow another one!
 
+### Day 97: April 17th, 2017
+
+**Today's Progress**: Three algorithms done tonight. DNA Pairing, Missing Letter, and Boo Who.
+
+**Thoughts:**  Made some quick work of the algorithms tonight. DNA Pairing was not too hard. It might have worked better with a switch instead of if else, but this worked and I think it is very easy to read. Missing letter was the hardest of the three tonight. Not that it was difficult, more that it took more logic than I thought. Finally, Boo who was very simple. Just check for a true or false with an if else and done. More work tomorrow.
+
