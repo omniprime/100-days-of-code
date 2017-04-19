@@ -555,3 +555,8 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Made some quick work of the algorithms tonight. DNA Pairing was not too hard. It might have worked better with a switch instead of if else, but this worked and I think it is very easy to read. Missing letter was the hardest of the three tonight. Not that it was difficult, more that it took more logic than I thought. Finally, Boo who was very simple. Just check for a true or false with an if else and done. More work tomorrow.
 
+### Day 98: April 18th, 2017
+
+**Today's Progress**: Sorted Union and the beginnings of Convert HTML Entities.
+
+**Thoughts:**  Made it through the first algorithm without too much difficulty. I am struggeling with the second at the moment. I currently have it looping through all of the character possibilities and use replace() to change the characters. The problem with this is that each loop will make a new outcome and overwrite the last. I need to have it check for all of them at once. I might be over thinking it. 
