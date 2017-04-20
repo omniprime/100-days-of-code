@@ -560,3 +560,10 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 **Today's Progress**: Sorted Union and the beginnings of Convert HTML Entities.
 
 **Thoughts:**  Made it through the first algorithm without too much difficulty. I am struggeling with the second at the moment. I currently have it looping through all of the character possibilities and use replace() to change the characters. The problem with this is that each loop will make a new outcome and overwrite the last. I need to have it check for all of them at once. I might be over thinking it. 
+
+### Day 99: April 19th, 2017
+
+**Today's Progress**: Spinal Case finished convert HTML
+
+**Thoughts:**  Took me 2 minutes if fix what was wrong in lasts nights Convert HTML algorithm tonight. I forgot to assign the initial str to newStr before I started looping through it. Fixed that and realized that I forgot to make my characters global and it worked just fine. The spinal case one took a little more effort. It only took one line of code, but I had to look up white space and then how to add a space when the string provided is in camelCase. Wasn't too bad, but not a fan of it. Started thinking about the next one which is addition of odd Fibonacci numbers. Not 100% sure of the best way to go about it. Will hopefully come to me tomorrow.
+
