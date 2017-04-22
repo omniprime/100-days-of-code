@@ -567,3 +567,9 @@ I also took a look at git to see if that might be worth my effort to attempt. I 
 
 **Thoughts:**  Took me 2 minutes if fix what was wrong in lasts nights Convert HTML algorithm tonight. I forgot to assign the initial str to newStr before I started looping through it. Fixed that and realized that I forgot to make my characters global and it worked just fine. The spinal case one took a little more effort. It only took one line of code, but I had to look up white space and then how to add a space when the string provided is in camelCase. Wasn't too bad, but not a fan of it. Started thinking about the next one which is addition of odd Fibonacci numbers. Not 100% sure of the best way to go about it. Will hopefully come to me tomorrow.
 
+### Day 100: April 21st, 2017
+
+**Today's Progress**: 2 Algorithms done and a little progress ona third.
+
+**Thoughts:**  Made it 100 days. Not sure where the 100 days went, but I did it. Had some trouble thinking logically tonight. Was rough working out the math for some reason and of course both algorithms I finished today were math. The third is math, but a little easier. I stopped at the point where I need to compair my arrays to find the lowest multiple in the array. Just trying to figure out the best way to do that. 2 for loops should do it. I will try more tomorrow on day 101. Not sure if I will keep the log going or not, but we will see. I might do this while I work through the FCC stuff. 7 more algorithms to go in this section.
+
